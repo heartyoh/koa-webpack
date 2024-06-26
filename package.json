@@ -1,6 +1,6 @@
 {
   "name": "@hatiolab/koa-webpack",
-  "version": "7.0.2",
+  "version": "7.0.3",
   "description": "Development and Hot Reload Middleware for Koa2",
   "license": "MPL-2.0",
   "repository": "shellscape/koa-webpack",
@@ -32,7 +32,7 @@
   "dependencies": {
     "@hatiolab/webpack-hot-client": "^7.0.0",
     "app-root-path": "^3.1.0",
-    "chalk": "^5.3.0",
+    "chalk": "^4.1.2",
     "joi": "^17.13.3",
     "merge-options": "^3.0.4",
     "webpack-dev-middleware": "^5.3.4"

@@ -1,6 +1,6 @@
 {
   "name": "@hatiolab/koa-webpack",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "Development and Hot Reload Middleware for Koa2",
   "license": "MPL-2.0",
   "repository": "shellscape/koa-webpack",
